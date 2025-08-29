@@ -1,5 +1,5 @@
 # Nightmare Night
-SKSE plugin for UI related logic of [Nightmare Night](https://github.com/Scrabx3/Nightmare-Night)
+SKSE plugin for UI related logic of [Nightmare Night](https://github.com/KrisV777/Nightmare-Night)
 
 ## Requirements
 * [xmake](https://xmake.io/#/)
@@ -14,7 +14,7 @@ SKSE plugin for UI related logic of [Nightmare Night](https://github.com/Scrabx3
 
 ## Building
 ```
-git clone https://github.com/Scrabx3/NightmareNight-SKSE.git
+git clone https://github.com/KrisV-777/NightmareNight-SKSE.git
 cd NightmareNight-SKSE
 git submodule update --init --recursive
 xmake f -m release [
