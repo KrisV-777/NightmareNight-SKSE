@@ -1,5 +1,5 @@
 # Nightmare Night
-SKSE plugin for UI related logic of [Nightmare Night](https://github.com/KrisV777/Nightmare-Night)
+SKSE plugin for UI related logic of [Nightmare Night](https://github.com/KrisV-777/NightmareNight)
 
 ## Requirements
 * [xmake](https://xmake.io/#/)
