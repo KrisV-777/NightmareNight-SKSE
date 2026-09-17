@@ -1,4 +1,4 @@
-set_xmakever("2.9.5")
+set_xmakever("3.1.1")
 
 -- Globals
 PROJECT_NAME = "NightmareNight"
@@ -19,7 +19,7 @@ option_end()
 -- Dependencies & Includes
 -- https://github.com/xmake-io/xmake-repo/tree/dev
 
-includes("lib/commonlibsse-ng")
+includes("lib/CommonLibSSE-NG")
 
 -- policies
 set_policy("package.requires_lock", true)

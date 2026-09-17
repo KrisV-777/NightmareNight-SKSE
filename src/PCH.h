@@ -41,5 +41,3 @@ namespace stl
 		T::func = vtbl.write_vfunc(T::size, T::thunk);
 	}
 }
-
-#define DLLEXPORT __declspec(dllexport)

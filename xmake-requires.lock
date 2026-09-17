@@ -3,45 +3,53 @@
         version = "1.0"
     },
     ["windows|x64"] = {
-        ["cmake#31fecfc4"] = {
+        ["cmake#f56260b5"] = {
             repo = {
                 branch = "master",
-                commit = "d690827620fac7d455dac05ed2e60e576f5cdcf8",
+                commit = "aec25d154ff4b8438f4288a94488f247706cb509",
                 url = "https://github.com/xmake-io/xmake-repo.git"
             },
-            version = "3.31.6"
+            version = "4.3.4"
         },
-        ["directxmath#31fecfc4"] = {
+        ["directxmath 2024.02#f56260b5"] = {
             repo = {
                 branch = "master",
-                commit = "f6251c012faabeb21d64f50a41e892e56993e77e",
+                commit = "aec25d154ff4b8438f4288a94488f247706cb509",
                 url = "https://github.com/xmake-io/xmake-repo.git"
             },
             version = "2024.02"
         },
-        ["directxtk#31fecfc4"] = {
+        ["directxtk 24.2.0#f56260b5"] = {
             repo = {
                 branch = "master",
-                commit = "f6251c012faabeb21d64f50a41e892e56993e77e",
+                commit = "aec25d154ff4b8438f4288a94488f247706cb509",
                 url = "https://github.com/xmake-io/xmake-repo.git"
             },
             version = "24.2.0"
         },
-        ["rapidcsv#31fecfc4"] = {
+        ["ninja#f56260b5"] = {
             repo = {
                 branch = "master",
-                commit = "d690827620fac7d455dac05ed2e60e576f5cdcf8",
+                commit = "aec25d154ff4b8438f4288a94488f247706cb509",
                 url = "https://github.com/xmake-io/xmake-repo.git"
             },
-            version = "v8.84"
+            version = "v1.13.2"
         },
-        ["spdlog#9c36f0a9"] = {
+        ["rapidcsv v8.92#f56260b5"] = {
             repo = {
                 branch = "master",
-                commit = "d690827620fac7d455dac05ed2e60e576f5cdcf8",
+                commit = "aec25d154ff4b8438f4288a94488f247706cb509",
                 url = "https://github.com/xmake-io/xmake-repo.git"
             },
-            version = "v1.15.1"
+            version = "v8.92"
+        },
+        ["spdlog v1.16.0#09c8c173"] = {
+            repo = {
+                branch = "master",
+                commit = "aec25d154ff4b8438f4288a94488f247706cb509",
+                url = "https://github.com/xmake-io/xmake-repo.git"
+            },
+            version = "v1.16.0"
         }
     }
 }
